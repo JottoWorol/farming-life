@@ -1,6 +1,4 @@
-﻿using UnityEngine.UIElements;
-
-namespace Core.Purchase
+﻿namespace Core.Purchase
 {
     public interface IPurchasableItem
     {

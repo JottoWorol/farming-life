@@ -1,6 +1,4 @@
-﻿using ICSharpCode.NRefactory.Ast;
-
-namespace Core.Purchase
+﻿namespace Core.Purchase
 {
     public class PurchasableItem : IPurchasableItem
     {
