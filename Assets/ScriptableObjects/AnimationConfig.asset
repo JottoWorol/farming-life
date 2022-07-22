@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63ed2b049a4b40808a7637a0962509cb, type: 3}
+  m_Name: AnimationConfig
+  m_EditorClassIdentifier: 
+  _fruitGatherAnimationDuration: 0.5
+  _fruitGatherFlyHeight: 1
+  _fruitGatherFlyParabolaMultiplier: 4
+  _fruitGatherMaxFlyRadius: 1
